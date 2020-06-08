@@ -3,3 +3,4 @@
 * Python
 * SQL
 * Oracle
+* Azure
